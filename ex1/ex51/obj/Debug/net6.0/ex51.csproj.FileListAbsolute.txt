@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\sem4\ex1\ex51\obj\Debug\net6.0\ex51.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\sem4\ex1\ex51\obj\Debug\net6.0\ex51.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\sem4\ex1\ex51\obj\Debug\net6.0\ex51.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\sem4\ex1\ex51\obj\Debug\net6.0\ex51.AssemblyInfo.cs
+C:\Users\user\Desktop\sem4\ex1\ex51\obj\Debug\net6.0\ex51.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\sem4\ex1\ex51\bin\Debug\net6.0\ex51.exe
+C:\Users\user\Desktop\sem4\ex1\ex51\bin\Debug\net6.0\ex51.deps.json
+C:\Users\user\Desktop\sem4\ex1\ex51\bin\Debug\net6.0\ex51.runtimeconfig.json
+C:\Users\user\Desktop\sem4\ex1\ex51\bin\Debug\net6.0\ex51.dll
+C:\Users\user\Desktop\sem4\ex1\ex51\bin\Debug\net6.0\ex51.pdb
+C:\Users\user\Desktop\sem4\ex1\ex51\obj\Debug\net6.0\ex51.dll
+C:\Users\user\Desktop\sem4\ex1\ex51\obj\Debug\net6.0\refint\ex51.dll
+C:\Users\user\Desktop\sem4\ex1\ex51\obj\Debug\net6.0\ex51.pdb
+C:\Users\user\Desktop\sem4\ex1\ex51\obj\Debug\net6.0\ex51.genruntimeconfig.cache
+C:\Users\user\Desktop\sem4\ex1\ex51\obj\Debug\net6.0\ref\ex51.dll

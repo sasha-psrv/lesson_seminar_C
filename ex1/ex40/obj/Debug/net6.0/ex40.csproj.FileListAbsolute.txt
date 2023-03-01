@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\sem4\ex1\ex40\bin\Debug\net6.0\ex40.exe
+C:\Users\user\Desktop\sem4\ex1\ex40\bin\Debug\net6.0\ex40.deps.json
+C:\Users\user\Desktop\sem4\ex1\ex40\bin\Debug\net6.0\ex40.runtimeconfig.json
+C:\Users\user\Desktop\sem4\ex1\ex40\bin\Debug\net6.0\ex40.dll
+C:\Users\user\Desktop\sem4\ex1\ex40\bin\Debug\net6.0\ex40.pdb
+C:\Users\user\Desktop\sem4\ex1\ex40\obj\Debug\net6.0\ex40.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\sem4\ex1\ex40\obj\Debug\net6.0\ex40.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\sem4\ex1\ex40\obj\Debug\net6.0\ex40.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\sem4\ex1\ex40\obj\Debug\net6.0\ex40.AssemblyInfo.cs
+C:\Users\user\Desktop\sem4\ex1\ex40\obj\Debug\net6.0\ex40.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\sem4\ex1\ex40\obj\Debug\net6.0\ex40.dll
+C:\Users\user\Desktop\sem4\ex1\ex40\obj\Debug\net6.0\refint\ex40.dll
+C:\Users\user\Desktop\sem4\ex1\ex40\obj\Debug\net6.0\ex40.pdb
+C:\Users\user\Desktop\sem4\ex1\ex40\obj\Debug\net6.0\ex40.genruntimeconfig.cache
+C:\Users\user\Desktop\sem4\ex1\ex40\obj\Debug\net6.0\ref\ex40.dll

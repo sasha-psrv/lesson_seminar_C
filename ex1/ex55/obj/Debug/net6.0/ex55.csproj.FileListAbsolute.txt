@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\sem4\ex1\ex55\obj\Debug\net6.0\ex55.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\sem4\ex1\ex55\obj\Debug\net6.0\ex55.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\sem4\ex1\ex55\obj\Debug\net6.0\ex55.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\sem4\ex1\ex55\obj\Debug\net6.0\ex55.AssemblyInfo.cs
+C:\Users\user\Desktop\sem4\ex1\ex55\obj\Debug\net6.0\ex55.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\sem4\ex1\ex55\bin\Debug\net6.0\ex55.exe
+C:\Users\user\Desktop\sem4\ex1\ex55\bin\Debug\net6.0\ex55.deps.json
+C:\Users\user\Desktop\sem4\ex1\ex55\bin\Debug\net6.0\ex55.runtimeconfig.json
+C:\Users\user\Desktop\sem4\ex1\ex55\bin\Debug\net6.0\ex55.dll
+C:\Users\user\Desktop\sem4\ex1\ex55\bin\Debug\net6.0\ex55.pdb
+C:\Users\user\Desktop\sem4\ex1\ex55\obj\Debug\net6.0\ex55.dll
+C:\Users\user\Desktop\sem4\ex1\ex55\obj\Debug\net6.0\refint\ex55.dll
+C:\Users\user\Desktop\sem4\ex1\ex55\obj\Debug\net6.0\ex55.pdb
+C:\Users\user\Desktop\sem4\ex1\ex55\obj\Debug\net6.0\ex55.genruntimeconfig.cache
+C:\Users\user\Desktop\sem4\ex1\ex55\obj\Debug\net6.0\ref\ex55.dll
